@@ -1,4 +1,4 @@
-# My Git Ignore File 
+# My Git Ignore File
 *.class
 
 # Mobile Tools for Java (J2ME)
@@ -14,6 +14,3 @@ hs_err_pid*
 
 # IntelliJ files
 *.idea
-
-# gitignore
-.gitignore
