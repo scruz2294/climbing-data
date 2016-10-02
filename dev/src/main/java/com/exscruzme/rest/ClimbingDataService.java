@@ -14,6 +14,7 @@ import org.codehaus.jackson.map.ObjectMapper;
 
 /**
  * Created by stephaniecruz on 10/1/16.
+ * This is the primary endpoint for this application
  */
 
 @Path("/routes")
